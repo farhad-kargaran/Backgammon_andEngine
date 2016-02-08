@@ -1,5 +1,5 @@
 # Backgammon_andEngine
-This is a backgammon game using andengine and eclipse
+This is an android backgammon game using Andengine and Eclipse
 
 This project does not include andengine, you can download the whole project using this url:
 
@@ -16,4 +16,6 @@ http://1kolbe.ir/farhad/MyBackGammon_1.0.apk
 # Computer AI Algorithm:
 I have written computer AI algorithm by myself and I have to work on it more and more but it is smart enough to win a human most of the time!
 
-You can contact me with this email: farhad.kargaran@gmail.com
+# Contact Information:
+email: farhad.kargaran@gmail.com
+Tel: +989394244467
