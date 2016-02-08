@@ -17,5 +17,7 @@ http://1kolbe.ir/farhad/MyBackGammon_1.0.apk
 I have written computer AI algorithm by myself and I have to work on it more and more but it is smart enough to win a human most of the time!
 
 # Contact Information:
+
 email: farhad.kargaran@gmail.com
+
 Tel: +989394244467
