@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#cbebf8"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="${relativePackage}.${activityClass}" 
+    >
+    
+    <Button 
+        android:id="@+id/btn_cpu"
+        android:layout_margin="7dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="@string/play_with_computer"
+        android:textSize="18sp"
+        android:background="#3d7dd3"
+        android:textColor="#ffffff"
+        android:onClick="twoPlayer_h2c"
+        />
+    <Button 
+        android:id="@+id/btn_offline"
+        android:layout_margin="7dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="@string/local_two_player"
+        android:textSize="18sp"
+       android:background="#3d7dd3"
+        android:textColor="#ffffff"
+        android:onClick="twoPlayer_h2hOff"
+        />
+    
+    
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My BackGammon</string>
+    <string name="winnerdialog">Will Start the game</string>
+    <string name="ok">Ok</string>
+    <string name="cantmove">You cant move</string>
+    <string name="crash_notif_ticker_text">Unexpected error, please send a report...</string>
+    <string name="crash_notif_title">CrashTest has crashed...</string>
+    <string name="crash_notif_text">Please click here to help fix the issue.</string>
+    <string name="title_activity_first_page_">FirstPage_Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="no_ineternet">No internet connection</string>
+    <string name="passwords_not_match">password and confirmation are not same</string>
+    <string name="email_is_needed">enter email</string>
+    <string name="nickname_is_needed">enter nick name</string>
+    <string name="can_not_connect_to_server">server unavailable, try again later</string>
+    <string name="title_activity_online">OnlineActivity</string>
+    <string name="registed_successfuly">sign up completed successfuly</string>
+    <string name="unknown_error">unknown error, try again later</string>
+    <string name="title_activity_single_player_options">Single_player_options</string>
+ <string name="paired_devices">select paired device</string>
+    <string name="make_discoverable">make visible</string>
+    <string name="device_discoverable">The device is visible</string>
+     <string name="search_devices">Search for devices</string>
+    <string name="bluetooth_not_supported">No bluetooth found!</string>
+    <string name="cant_play_no_bt">Turn bluetooth on first</string>
+    <string name="searching">Searching... make sure the other device is discoverable</string>
+     <string name="connected_to">Connecting to</string>
+    <string name="connecting_to">Connecting to</string>
+    <string name="cant_connect">can not connec</string>
+     <string name="bt_help_title">Help</string>
+      <string name="local_two_player">Two Player (local)</string>
+       <string name="bt_two_player">Two Player (Bluetooth)</string>
+       <string name="play_with_computer">Play With Computer</string>
+    <string name="bt_help_message">برای شروع بازی بر روی دستگاهی که میخواهید با آن بازی کنید کلیک کنید\n\nاگر دستگاه ها جفت شده باشند باید یکدیگر را در لیست ببینید\n\nاگر دستگاهها با هم جفت نشدند باید ابتدا یکی از دستگاه ها را قابل مشاهده کنید, و با دیگری جستجو را شروع کنید. پس از اتمام جستجو دستگاه جدید در لیست اضافه می شود. کافیست بر روی آن کلیک کنید تا دستگاهها جفت شده و بازی شروع شود </string>
+    
+</resources>

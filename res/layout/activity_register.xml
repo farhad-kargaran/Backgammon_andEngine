@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background= "#cbebf8"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <EditText
+        android:id="@+id/edt_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:hint="Email"
+         />
+     <EditText
+         android:id="@+id/edt_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:hint="Password"
+         />
+      <EditText
+          android:id="@+id/edt_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:hint="Confirm Password"
+         />
+      <EditText
+          android:id="@+id/edt_nickname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:hint="Nick Name"
+         />
+     
+     <Button 
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:textSize="18sp"
+         android:text="ثبت نام"
+         android:onClick="signup"
+         />
+
+</LinearLayout>
