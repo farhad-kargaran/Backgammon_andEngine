@@ -12,7 +12,7 @@ http://irantourism24.ir/tmp/andEngine-See_me.jpg
 
 
 # Download Game APK:
-http://irantourism24.ir/tmp/MyBackGammon_1.0.apk
+https://drive.google.com/open?id=0B_R_DM9vCaA_WEh0YTNOVWtSTkk
 
 
 # Computer AI Algorithm:
