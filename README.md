@@ -1,7 +1,7 @@
 # Backgammon_andEngine
 This is an android backgammon game using Andengine and Eclipse
 
-![alt tag](http://irantourism24.ir/tmp/2016-09-24_10-55-42.png)
+![alt tag](https://www.dropbox.com/s/zq3jfwvc9gac4a4/photo5825876980019603390.jpg?dl=0)
 
 This project does not include andengine, you can download the whole project using this url:
 
