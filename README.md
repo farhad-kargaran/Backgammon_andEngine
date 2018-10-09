@@ -3,13 +3,6 @@ This is an android backgammon game using Andengine and Eclipse
 
 ![alt tag](http://iranoffline.com/download/Linkedin/Backgammon/backgammon.jpg)
 
-This project does not include andengine, you can download the whole project using this url:
-
-http://irantourism24.ir/tmp/Backgammon.zip
-
-dont forget to add andengine as a library to project:
-http://irantourism24.ir/tmp/andEngine-See_me.jpg
-
 
 # Download Game APK:
 [backgammon.apk](http://iranoffline.com/download/Linkedin/Backgammon/backgammon.apk)
